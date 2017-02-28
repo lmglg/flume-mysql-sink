@@ -1,5 +1,5 @@
 # flume-mysql-sink
-Logs collected by Flume are stored in the MySQL database
+Logs collected by Flume1.6.0 are stored in the MySQL database
 
 ### mysqlSink.conf
 ---
