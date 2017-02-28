@@ -10,7 +10,7 @@ Logs collected by Flume are stored in the MySQL database
 
 
      agent1.sources.source1. type  =  exec
-     agent1.sources.source1. command  = tail -F /home/yong/Work/flum-1.6/tail_log_exec
+     agent1.sources.source1. command  = tail -F /Work/flum-1.6/tail_log_exec
      agent1.sources.source1.channels = channel1
 
 
